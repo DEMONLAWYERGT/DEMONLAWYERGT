@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/view/coding-gif-11873195069830949837)]
+[![MasterHead](https://tenor.com/view/banner-gif-27634016)]
 
 <h1 align="center">Hi 👋, I'm Siva Krishnan</h1>
 <h3 align="center">A Passionate Developer who is broadening his Horizons.</h3>
